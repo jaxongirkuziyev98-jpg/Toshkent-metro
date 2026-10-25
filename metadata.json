@@ -1,0 +1,6 @@
+{
+  "name": "Toshkent Metro Yo'lboshchi",
+  "description": "Toshkent metrosida poyezdlar kelish vaqti, interaktiv xarita, yo'nalish hisoblash va bekatlar qo'llanmasi.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
